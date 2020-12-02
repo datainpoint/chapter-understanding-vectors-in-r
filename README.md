@@ -1,2 +1,3 @@
-# chapter-getting-started-with-r
-Chapter: Getting started with R.
+# chapter-understanding-vectors-in-r
+
+Chapter: Understanding vectors in R.
